@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/SbJpHHKRyh)](https://discord.gg/SbJpHHKRyh)
 
 <!--
 **sarhossamet1/sarhossamet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
